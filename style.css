@@ -383,9 +383,9 @@ table {
     border-radius: 8px;
 }
 
-@media (max-width: 1444px) {
+@media (max-width: 2000px) {
     .contact-lists{
-        font-size: 18px;
+        font-size: 20px;
     }
 }
 
